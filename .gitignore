@@ -123,3 +123,6 @@ coverage_html_report/
 # generated cpp files
 # @TODO remove this line once there will be usage of cpp files
 src/aim/core/storage/**/*.cpp
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
